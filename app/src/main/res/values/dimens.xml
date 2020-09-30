@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="alarm_titleSize">20sp</dimen>
+    <dimen name="alarm_infoSize">25sp</dimen>
+    <dimen name="alarm_infoMargin">8dp</dimen>
+</resources>
